@@ -1,0 +1,14 @@
+# Generated data, checkpoints, credentials, and local runtime state
+/data/
+/datasets/
+/checkpoints/
+/outputs/
+/runs/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.jsonl
+.env
+.env.*
