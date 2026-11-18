@@ -20,6 +20,10 @@
 
 训练数据通过 `training-data` 发布的 manifest 获取；Hermes 交互环境通过 `hermes-harness` 提供；评测回归由 `model-eval` 执行。
 
+## 当前公开状态
+
+本仓库已公开，用于让团队查看训练基础设施的职责、依赖边界和后续改造方向。当前阶段尚未上传 AReaL/verl 改造代码、GPU 启动器、容器配置或 checkpoint 脚本。
+
 ## 计划目录
 
 ```text
